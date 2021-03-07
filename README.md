@@ -1,7 +1,7 @@
 # Blueprints Maker
 Building AI course project
 
-## Sumary
+## Summary
 There are basic concepts when making architect blueprints that can be easily automated, like make simple walls or rooms. In addition, for an inexperienced person it can be of great help to obtain a base blueprints only specified a few characteristics.
 
 ## Backgroung
